@@ -354,7 +354,7 @@ Through this project, I gained practical experience in:
 This project also improved my understanding of how raw business data can be transformed into meaningful information for decision-making.
 
 
-# 👩‍💻 Author
+# Author
 
 **Jashanpreet Kaur**
 
