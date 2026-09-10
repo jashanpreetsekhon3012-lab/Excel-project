@@ -78,7 +78,7 @@ The sales data is also analysed according to customer segments, including:
 - Home Office
 - Unknown, where applicable
 
-# 🧹 Data Cleaning and Preparation
+# Data Cleaning and Preparation
 
 Before creating the dashboard, the dataset was carefully reviewed and cleaned in Microsoft Excel.
 
